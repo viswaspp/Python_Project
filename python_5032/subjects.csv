@@ -1,0 +1,81 @@
+Program,Semester,Subject,Credits,Description
+Engineering,1,Mathematics I,4,Introduction to calculus and analytic geometry.
+Engineering,1,Physics,4,Fundamentals of classical mechanics
+Engineering,1,Chemistry,3,Basic principles of chemistry and chemical reactions.
+Engineering,1,Introduction to Engineering,3,Overview of engineering disciplines and problem-solving techniques.
+Engineering,2,Mathematics II,4,Advanced calculus and linear algebra.
+Engineering,2,Engineering Mechanics,4,Statics and dynamics of particles and rigid bodies.
+Engineering,2,Computer Programming,3,Introduction to programming concepts and problem-solving techniques.
+Engineering,2,Electrical Sciences,3,Principles of electrical circuits and systems.
+Engineering,3,Mathematics III,4,Advanced calculus
+Engineering,3,Thermodynamics,4,Basic principles of thermodynamics and heat transfer.
+Engineering,3,Mechanics of Solids,3,Study of stresses
+Engineering,3,Fluid Mechanics,3,Study of fluid behavior and its applications.
+Engineering,4,Numerical Methods,3,Introduction to numerical analysis and methods.
+Engineering,4,Manufacturing Processes,3,Study of various manufacturing processes and techniques.
+Engineering,4,Materials Science,3,Study of materials properties and behavior.
+Engineering,4,Machine Design,3,Design and analysis of machine components and systems.
+Engineering,5,Control Systems,4,Analysis and design of control systems.
+Engineering,5,Power Systems,4,Study of electrical power generation
+Engineering,5,Digital Electronics,3,Introduction to digital electronic circuits and systems.
+Engineering,5,Communication Systems,3,Study of analog and digital communication systems.
+Engineering,6,Environmental Studies,3,Study of environmental issues and sustainability.
+Engineering,6,Industrial Management,3,Principles of industrial management and organization.
+Engineering,6,Project Management,3,Fundamentals of project management.
+Engineering,6,Internship,3,Real-world work experience in an engineering-related field.
+Engineering,7,Elective I,3,An elective course chosen from a list of options.
+Engineering,7,Elective II,3,An elective course chosen from a list of options.
+Engineering,7,Elective III,3,An elective course chosen from a list of options.
+Engineering,7,Project Work,3,Individual or group project work.
+Engineering,8,Seminar,2,Presentation and discussion of research topics.
+Engineering,8,Project Work II,6,Continuation of individual or group project work.
+Engineering,8,Internship II,3,Extended real-world work experience in an engineering-related field.
+Engineering,8,Elective IV,3,An elective course chosen from a list of options.
+Design,1,Design Fundamentals,3,Fundamental principles of design theory and practice.
+Design,1,Visual Communication,3,Introduction to visual communication techniques and principles.
+Design,1,Drawing Techniques,3,Basic drawing techniques and practices.
+Design,1,Introduction to Design Thinking,3,Introduction to design thinking methodology and process.
+Design,2,Design History,3,Survey of historical trends and movements in design.
+Design,2,Digital Design Tools,3,Introduction to digital design software and tools.
+Design,2,Materials and Processes,3,Overview of materials and manufacturing processes.
+Design,2,Human-Centered Design,3,Design principles centered around human needs and experiences.
+Design,3,Design Research Methods,3,Research methods for design projects and studies.
+Design,3,Design Thinking II,3,Advanced design thinking concepts and applications.
+Design,3,Product Design,3,Principles and processes of product design.
+Design,3,User Experience Design,3,Designing digital interfaces focused on enhancing user experience.
+Design,4,Design Management,3,Management principles and strategies applied to design projects and teams.
+Design,4,Design for Sustainability,3,Designing products and systems with environmental sustainability in mind.
+Design,4,Service Design,3,Designing services and systems with a user-centered approach.
+Design,4,Design Studio,3,Studio-based design projects focusing on real-world challenges.
+Design,5,Advanced Design Tools,3,Advanced software and tools for digital design and prototyping.
+Design,5,Design for Innovation,3,Applying design thinking to drive innovation in products and services.
+Design,5,Design Critique,3,Analyzing and critiquing design solutions for improvement.
+Design,5,Internship,6,Hands-on experience in a design-related workplace.
+Design,6,Design Project,6,Capstone design project integrating skills and knowledge from the program.
+Design,6,Thesis,3,Independent research project on a design-related topic.
+Design,6,Professional Practice,3,Ethical and professional considerations in design practice.
+Design,6,Workshop,3,Hands-on workshops exploring specific aspects of design practice.
+Law,1,Introduction to Law,3,Introduction to legal systems
+Law,1,Legal Research and Writing,3,Introduction to legal research methods and writing skills.
+Law,1,Constitutional Law,3,Study of constitutional principles and case law.
+Law,1,Criminal Law,3,Study of criminal laws and procedures.
+Law,2,Contracts,3,Study of contract law principles and case analysis.
+Law,2,Torts,3,Study of civil wrongs and liability.
+Law,2,Legal Ethics,3,Study of professional ethics and responsibilities of lawyers.
+Law,2,Property Law,3,Study of property rights and real estate law.
+Law,3,Civil Procedure,3,Study of civil litigation procedures and rules.
+Law,3,Criminal Procedure,3,Study of criminal litigation procedures and rules.
+Law,3,Evidence,3,Study of rules of evidence and their application in legal proceedings.
+Law,3,Family Law,3,Study of legal issues related to family relationships and domestic matters.
+Law,4,Commercial Law,3,Study of laws governing commercial transactions and business entities.
+Law,4,International Law,3,Study of laws governing relations between nations and international organizations.
+Law,4,Administrative Law,3,Study of laws governing administrative agencies and their actions.
+Law,4,Legal Clinic,6,Practical experience working on real legal cases under supervision.
+Law,5,Intellectual Property Law,3,Study of laws protecting intellectual property rights.
+Law,5,Human Rights Law,3,Study of laws protecting human rights and freedoms.
+Law,5,Environmental Law,3,Study of laws regulating environmental protection and conservation.
+Law,5,Internship,6,Practical experience working in a legal setting.
+Law,6,Legal Writing,3,Advanced legal writing skills for drafting legal documents and briefs.
+Law,6,Moot Court,3,Simulated court exercises for developing advocacy and litigation skills.
+Law,6,Legal Practice,3,Skills and strategies for legal practice and client representation.
+Law,6,Thesis,6,Independent research project on a legal topic.
